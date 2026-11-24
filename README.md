@@ -15,10 +15,13 @@ O CyberScan CLI é um projeto desenvolvido em JavaScript utilizando Node.js, com
 - Readline
 
 ### Como executar
+node nome da pasta 
 
+EX:
 ```bash
-node src/scanner.js
+node script.js
 ```
+
 
 ### Objetivo
 
